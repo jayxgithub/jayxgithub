@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @jayxgithub
-- 👀 I’m interested in programing
+- 👋 Hi, I’m Jay 
+- 👀 I’m interested in Python Dev & AI ML 
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...AI ML Projects 
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ...he /  him 
+
 
 <!---
 jayxgithub/jayxgithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
