@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jay 
 - 👀 I’m interested in Python Dev & AI ML 
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on ...AI ML Projects 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ...Python,AI and ML Projects 
+- 📫 How to reach me jaybombatkar78539@gmail.com
 - 😄 Pronouns: ...he /  him 
 
 
