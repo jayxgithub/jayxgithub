@@ -14,7 +14,7 @@
   <a href="mailto:jaybombatkar78539@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/jay-bombatkar">
+  <a href="[https://linkedin.com/in/jay-bombatkar](https://www.linkedin.com/in/jay-bombatkar-2436332b5/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
