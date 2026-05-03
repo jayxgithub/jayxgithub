@@ -1,28 +1,112 @@
-# 💫 About Me:
-Python Dev & AI ML
+<h1 align="center">Hi 👋, I'm Jay Bombatkar</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Embedded+Systems+Engineer;PCB+Design+Specialist;Firmware+Developer;STM32+%7C+PIC+%7C+Python;Always+Learning+New+Tech" />
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jayxgithub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jayxgithub&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayxgithub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jayxgithub&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jayxgithub&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h3 align="center">⚡ Turning Ideas into Real Hardware ⚡</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jayxgithub&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---
-jayxgithub/jayxgithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:jaybombatkar78539@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/jay-bombatkar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 Final-Year Electronics & Telecommunication Engineer (SPPU)
+- 📊 SGPA: **8.85**
+- 🔧 Skilled in **Embedded Systems, PCB Design & Debugging**
+- 💼 Looking for **Embedded / Hardware / R&D roles**
+
+---
+
+## ⚡ Tech Stack
+
+### 🧠 Programming
+![C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 🔌 Microcontrollers
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![PIC](https://img.shields.io/badge/PIC_Microcontroller-FF6600?style=for-the-badge)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge)
+
+---
+
+### 🔗 Protocols
+![UART](https://img.shields.io/badge/UART-000000?style=for-the-badge)
+![SPI](https://img.shields.io/badge/SPI-000000?style=for-the-badge)
+![I2C](https://img.shields.io/badge/I2C-000000?style=for-the-badge)
+![CAN](https://img.shields.io/badge/CAN_Bus-00599C?style=for-the-badge)
+
+---
+
+### 🖥 PCB Design
+![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge)
+![Altium](https://img.shields.io/badge/Altium-FF0000?style=for-the-badge)
+
+---
+
+### 🧪 Tools
+![Oscilloscope](https://img.shields.io/badge/Oscilloscope-222222?style=for-the-badge)
+![Multimeter](https://img.shields.io/badge/Multimeter-222222?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 CNC Controller using MPG
+- 🧩 2-layer PCB (KiCad)
+- 🎯 Precision axis control
+- ⚡ Encoder-based input system
+
+---
+
+### 🔹 STM32 PCB Design
+- 🧠 4-layer board (Altium)
+- 🔌 USB + UART Interfaces
+- 📡 Signal integrity optimization
+
+---
+
+### 🔹 Business Data Scraper
+- 🐍 Python + Selenium
+- 📊 Extracts Google Maps data
+- 📁 CSV Export
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Career Vision
+
+To become a **top Embedded Systems Engineer** building  
+real-world hardware + firmware solutions.
+
+---
+
+## ⚡ Fun Line
+
+"Code + Circuit = Innovation ⚡"
